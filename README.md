@@ -7,6 +7,15 @@
 
 ---
 
+## Project Files
+
+- [Data Quality Checks](sql/01_data_quality_checks.sql) — SQL queries used to inspect missing values, duplicates, invalid timestamps, and ride durations.
+- [Data Cleaning & Transformation](sql/02_data_cleaning.sql) — SQL used to combine, clean, transform, and verify the full-year dataset.
+- [Analysis Queries](sql/03_analysis.sql) — SQL queries used to analyze rider behavior and generate the project's key findings.
+- [Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysis_17882689134340/CyclisticRiderAnalysis?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) — Interactive visualization of the main findings.
+
+---
+
 ## Project Overview
 
 Cyclistic is a fictional bike-share company seeking to increase annual memberships. Financial analysis indicated that annual members are more profitable than casual riders, creating an opportunity for the marketing team to convert existing casual riders into members.
