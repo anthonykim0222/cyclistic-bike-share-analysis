@@ -107,6 +107,18 @@ FROM cleaned_data;
 
 I used SQL to compare casual riders and annual members across ride duration, day of week, time of day, seasonality, and bike type. The analysis revealed four main differences in how the two rider groups use the service.
 
+---
+
+## Tableau Dashboard
+
+I created an interactive Tableau dashboard to visualize the main differences between casual riders and annual members.
+
+![Cyclistic Rider Analysis Dashboard](images/cyclistic-dashboard.png)
+
+[View the interactive dashboard on Tableau Public](PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)
+
+---
+
 ### 1. Casual Riders Take Longer Trips
 
 Casual riders had a longer average ride duration than that of the annual members; casual riders averaged approximately **21.24** minutes when the members averaged around **12.39** minutes.
