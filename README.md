@@ -115,7 +115,7 @@ I created an interactive Tableau dashboard to visualize the main differences bet
 
 ![Cyclistic Rider Analysis Dashboard](images/cyclistic-dashboard.png)
 
-[View the interactive dashboard on Tableau Public](PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/anthony.kim1549/viz/CyclisticBike-ShareAnalysis_17882689134340/CyclisticRiderAnalysis)
 
 ---
 
