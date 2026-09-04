@@ -120,7 +120,7 @@ I used SQL to compare casual riders and annual members across ride duration, day
 
 Casual riders had a longer average ride duration than that of the annual members; casual riders averaged approximately **21.24** minutes when the members averaged around **12.39** minutes.
 
-To take a better look into these findings and find out if outliers were not skewing the mean unnecessarily, the median was also found, which resulted in results that presented a **10.88** minute median ride time for casual members and a **8.52** median for annual members. 
+To take a better look into these findings and find out if outliers were not skewing the mean unnecessarily, the median was also found, which resulted in results that presented a **10.88** minute median ride time for casual riders and a **8.52** median for annual members. 
 
 Even though the median was considerably lower than the average for both groups, casual riders still had a higher median than the annual members, supporting the finding that they generally take longer rides.
 
@@ -170,7 +170,7 @@ Based on the differences identified between casual riders and annual members, I 
 
 Cyclistic should advertise annual membership discounts or limited-time offers during peak casual-use periods, usually on weekends and during high-ridership summer months. Weekend rides account for **37.87%** of casual rider activity compared with **23.41%** of member activity and show strong seasonal variation with casual rides rising from about 25K in January to 358K in July.
 
-Cyclistic could show an in-app message after a casual weekend ride that reads the following: **"Enjoying Cyclistic? Save on future rides by becoming an annual member. Join today and receive 20% off your first year.”**
+Cyclistic could show an in-app message after a casual weekend ride that reads the following: **"Enjoying Cyclistic? Save on future rides by becoming an annual member. Join today and receive a limited-time discount on your first year.”**
 
 ### 2. Market Membership Around Repeat/Routine Transportation, Not Just Recreation
 
